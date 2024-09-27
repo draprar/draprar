@@ -59,6 +59,10 @@
     <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" /> 
     <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Inventor" /> 
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+    <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6600?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence" /> 
+    <img src="https://img.shields.io/badge/Machine_Learning-FFB6C1?style=for-the-badge&logo=machine-learning&logoColor=black" alt="Machine Learning" /> 
+    <img src="https://img.shields.io/badge/Natural_Language_Processing-FFA500?style=for-the-badge&logo=nlp&logoColor=white" alt="Natural Language Processing" /> 
+    <img src="https://img.shields.io/badge/Prompt_Engineering-FF6347?style=for-the-badge&logo=prompt&logoColor=white" alt="Prompt Engineering" />
 </div>
 
 
