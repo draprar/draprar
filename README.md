@@ -70,7 +70,6 @@
 <div align="center">
     <h2>📄 Stats</h2>
     <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark" alt="draprar's GitHub Stats"/></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=draprar&theme=dark" alt="GitHub Streak Stats" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark" alt="Top Languages" /></p>
 </div>
 <!--
