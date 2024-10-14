@@ -1,4 +1,4 @@
-# Hi there 👋 Walery here
+# <h1 align="center"> Hi there 👋 Walery here</div>
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a senior technology specialist specializing in fiber optic network technology, electrical engineering, and management. I enjoy staying up-to-date with cloud computing, Agile methodologies, and modern programming trends. Currently, I’m focused mainly on developing and testing my Python Django application - <a href="https://www.lingwolamki.online" target="_blank">LingwoŁamki</a>.</p>
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-    <h2>🤯 Technologies, Frameworks, Cloud & Tools</h2>
+    <h2>🤯 Languages & Technologies</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,17 +72,3 @@
     <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark" alt="draprar's GitHub Stats"/></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark" alt="Top Languages" /></p>
 </div>
-<!--
-**draprar/draprar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
