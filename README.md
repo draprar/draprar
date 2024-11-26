@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi there 👋 Walery here</div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a senior technology specialist specializing in fiber optic network technology, electrical engineering, and management. I enjoy staying up-to-date with cloud computing, Agile methodologies, and modern programming trends. Currently, I’m focused mainly on developing and testing my Python Django application - <a href="https://www.lingwolamki.online" target="_blank">LingwoŁamki</a>.</p>
+    <p>I'm an expert specializing in fiber optic network technology, electrical engineering, and management. I enjoy staying up-to-date with modern programming trends.
     <p>Outside of work, I enjoy rugby, boxing, Muay Thai, yoga, strength training, continuous learning, reading, and drawing.</p>
 </div>
 <div align="center">
