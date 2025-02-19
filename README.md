@@ -1,20 +1,14 @@
 # <h1 align="center"> Hi there 👋 Walery here</div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm an expert specializing in fiber optic network technology, electrical engineering, and management. I enjoy staying up-to-date with modern programming trends.
-    <p>Outside of work, I enjoy rugby, boxing, Muay Thai, yoga, strength training, continuous learning, reading, and drawing.</p>
+    <p>Hi, I'm Walery! I'm a data & software enthusiast with experience in data analysis, automation, Python development, and full-stack web applications.</p>
+    <p>Outside of work, you'll find me doing boxing, Muay Thai, yoga, reading, and drawing.</p>
 </div>
 <div align="center">
     <h2>📧 How to find me</h2>
-    <a href="https://www.linkedin.com/in/micha%C5%82-walerowicz/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="https://github.com/draprar">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://credly.com/users/michal-walerowicz">
-            <img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
-        </a>
     <a href="https://www.instagram.com/jedzien/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
@@ -69,6 +63,6 @@
 
 <div align="center">
     <h2>📄 Stats</h2>
-    <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark" alt="draprar's GitHub Stats"/></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark" alt="Top Languages" /></p>
+    <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark" alt="draprar's GitHub Stats"/></p>
 </div>
