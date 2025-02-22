@@ -1,4 +1,3 @@
-# <h1 align="center"> Hi there 👋 Walery here</div>
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>Hi, I'm Walery! I'm a data & software enthusiast with experience in data analysis, automation, Python development, and full-stack web applications.</p>
