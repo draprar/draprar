@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hi, I'm Walery! I'm a data & software enthusiast with experience in data analysis, automation, Python development, and full-stack web applications.</p>
-    <p>Outside of work, you'll find me doing boxing, Muay Thai, yoga, reading, and drawing.</p>
+    <p>👋 Hi, I’m Walery — I design data pipelines, build automation tools, and ship full-stack apps. Python, ML, Django, APIs, SQL — you name it.
+    <p>🥋 Outside of tech: combat sports, yoga, sketching, and books.</p>
 </div>
 <div align="center">
     <h2>📧 How to find me</h2>
