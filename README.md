@@ -1,14 +1,14 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>👋 Hi, I’m Walery — I design data pipelines, build automation tools, and ship full-stack apps. Python, ML, Django, APIs, SQL — you name it.
-    <p>🥋 Outside of tech: combat sports, yoga, sketching, and books.</p>
+    <p>🥋 Outside of tech: combat sports, yoga, sketching and books.</p>
 </div>
 <div align="center">
     <h2>📧 How to find me</h2>
     <a href="https://github.com/draprar">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.instagram.com/jedzien/">
+    <a href="https://www.instagram.com/bazgrollin/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:waleron@gmail.com">
