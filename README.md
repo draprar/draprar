@@ -1,107 +1,68 @@
 <div align="center">
-    <h2>🚀 About Me</h2>
-    <p>👋 Hi, I’m Walery — I design data pipelines, build automation tools, and ship full-stack apps. Python, ML, Django, APIs, SQL — you name it.
-    <p>🥋 Outside of tech: combat sports, yoga, sketching and books.</p>
-</div>
-<div align="center">
-    <h2>📧 How to find me</h2>
-    <a href="https://github.com/draprar">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.instagram.com/bazgrollin/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:waleron@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+
+# Walery
+
+**Python · Data · ML · Django · APIs · Desktop apps**
+
+[![Portfolio](https://img.shields.io/badge/walery.site-000000?style=for-the-badge&logo=globe&logoColor=white)](https://walery.site)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draprar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bazgrollin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleron@gmail.com)
+
 </div>
 
-<div align="center">
-  <h2>🤯 Languages & Technologies</h2>
+---
 
-  <!-- 🔣 Programming Languages -->
-  <h3>🔣 Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+## About
 
-  <!-- 💻 Web Development -->
-  <h3>💻 Web Development</h3>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0088CC?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI-6B7280?style=for-the-badge&logo=openapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+Hi, I’m Walery — I build data products, automation tools and backend applications. 
 
-  <!-- 🧠 Data Engineering & ML -->
-  <h3>🧠 Data Engineering & Machine Learning</h3>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge&logoColor=white" />
+Currently open to Python, Data and Automation opportunities.
 
-  <!-- 🗃️ Databases -->
-  <h3>🗃️ Databases</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-005C5B?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-BA0C2F?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+I primarily work on:
+- data and ML pipelines
+- desktop applications
+- full-stack Django projects
+- API services
 
-  <!-- 📊 BI & Reporting -->
-  <h3>📊 BI & Reporting Tools</h3>
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metabase-2D3142?style=for-the-badge&logo=metabase&logoColor=white" />
+I enjoy solving messy problems and turning them into usable products.
 
-  <!-- ⚙️ Dev Tools, Cloud & DevOps -->
-  <h3>⚙️ Dev Tools, Cloud & DevOps</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+Outside tech: combat sports, art and books.
 
-  <!-- 🧑‍🎨 Design & Visualization -->
-  <h3>🧑‍🎨 Design & Visualization</h3>
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+---
 
+## Selected projects
 
-  <!-- 📅 Methods, Tools & Systems -->
-  <h3>📅 Methods, Tools & Systems</h3>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/BPMN_2.0-007ACC?style=for-the-badge&logo=camunda&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-0082C9?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  
-</div>
+| Project | Description | Stack |
+|----------|-------------|---------|
+| [ml-intensity-prediction](https://github.com/draprar/ml-training-intensity-prediction) | End-to-end ML pipeline predicting kcal/min from Garmin training data with API deployment | scikit-learn · FastAPI |
+| [data-analysis-projects](https://github.com/draprar/data-analysis-projects) | BI and ML case studies: dashboards, clustering, regression, and classification | Power BI · Excel · Python · R |
+| [pandas-tabular-convert](https://github.com/draprar/pandas-tabular-convert) | CLI tool for converting CSV, Excel, JSON, Pickle, and Parquet files | Pandas |
+| [opencv-sketch-effects](https://github.com/draprar/opencv-sketch-effects) | Desktop app for sketch effects, contours, and tattoo stencil generation | PyQt5 · OpenCV |
+| [django-portfolio](https://github.com/draprar/django_portfolio-walery) | Modular portfolio platform with integrated apps — live at walery.site | Django |
 
+---
 
+## Main Stack
+
+**Languages** · Python · R · Bash · PowerShell
+
+**Data** · Pandas · NumPy · scikit-learn
+
+**BI** · Power BI · Looker Studio · Excel
+
+**Databases** · PostgreSQL · MySQL · SQLite · T-SQL · BigQuery · Redshift
+
+**Web** · Django · FastAPI · REST APIs · JavaScript · HTML5 · CSS3
+
+**DevOps** · Git · GitHub Actions · Docker · Redis · Sentry
+
+---
 
 <div align="center">
-    <h2>📄 Stats</h2>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark" alt="Top Languages" /></p>
-    <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark" alt="draprar's GitHub Stats"/></p>
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark)
+
 </div>
