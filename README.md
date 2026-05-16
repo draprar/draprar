@@ -38,7 +38,7 @@ Outside tech: combat sports, art and books.
 | [ml-intensity-prediction](https://github.com/draprar/ml-training-intensity-prediction) | End-to-end ML pipeline predicting kcal/min from Garmin training data with API deployment | scikit-learn · FastAPI |
 | [data-analysis-projects](https://github.com/draprar/data-analysis-projects) | BI and ML case studies: dashboards, clustering, regression, and classification | Power BI · Excel · Python · R |
 | [pandas-tabular-convert](https://github.com/draprar/pandas-tabular-convert) | CLI tool for converting CSV, Excel, JSON, Pickle, and Parquet files | Pandas |
-| [opencv-sketch-effects](https://github.com/draprar/opencv-sketch-effects) | Desktop app for sketch effects, contours, and tattoo stencil generation | PyQt5 · OpenCV |
+| [opencv-sketch-effects](https://github.com/draprar/opencv-sketch-effects) | Desktop app for sketch effects, contours, and tattoo stencil generation | tkinter · OpenCV |
 | [django-portfolio](https://github.com/draprar/django_portfolio-walery) | Modular portfolio platform with integrated apps — live at walery.site | Django |
 
 ---
