@@ -60,8 +60,6 @@ Outside tech: combat sports, art and books.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=draprar&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=draprar&theme=github_dark)
 
 </div>
